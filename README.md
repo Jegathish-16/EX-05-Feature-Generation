@@ -24,8 +24,8 @@ Save the data to the file
 Developed By: Jegathish S
 Register No: 212221230041
 ```
-### Dataset 1 - Data.csv
-# Code:
+# Dataset 1 - Data.csv
+## Code:
 ```
 import pandas as pd
 df=pd.read_csv("data.csv")
@@ -138,8 +138,8 @@ Feature scaling is a method used to normalize the range of independent variables
 ## Feature Scaling - Robust Scaler Technique:
 ![output](./Data/a17.png)
 
-### Dataset 2 - Encoding Data.csv
-# Code:
+# Dataset 2 - Encoding Data.csv
+## Code:
 ```
 import pandas as pd
 df=pd.read_csv("Encoding Data.csv")
@@ -236,8 +236,8 @@ df8
 ## Feature Scaling - Robust Scaler Technique:
 ![output](./Encoding%20data/d15.png)
 
-### Dataset 3 - titanic_dataset.csv
-# Code:
+# Dataset 3 - titanic_dataset.csv
+## Code:
 ```
 import pandas as pd
 df=pd.read_csv("titanic_dataset.csv")
