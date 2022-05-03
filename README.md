@@ -119,6 +119,7 @@ df9
 ![output](./Data/a11.png)
 ## One Hot Encoding Method:
 ![output](./Data/a12.png)
+
 ![output](./Data/a13.png)
 ## Final DataSet after applying Encoding Methods:
 ![output](./Data/a13.png)
