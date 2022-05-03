@@ -205,6 +205,7 @@ df8
 ![output](./Encoding%20data/d1.png)
 ## Applying Ordinal Encoding Method in column - ord_2:
 ![output](./Encoding%20data/d2.png)
+
 ![output](./Encoding%20data/d3.png)
 ## After applying Ordinal Encoding Method in column - ord_2:
 ![output](./Encoding%20data/d4.png)
