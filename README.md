@@ -23,7 +23,6 @@ Save the data to the file
 ```
 Developed By: Jegathish S
 Register No: 212221230041
-
 ```
 ### Dataset 1 - Data.csv
 # Code:
